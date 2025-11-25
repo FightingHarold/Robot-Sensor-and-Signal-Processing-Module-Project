@@ -20,6 +20,8 @@ All Hardware Components Used:
 16. MCP 3008
 17. Diodes
 18. Fuse Holder
+
+Final Working Prototype ScreenShot
 <img width="1279" height="1600" alt="image" src="https://github.com/user-attachments/assets/23bda554-3509-4f0b-bfad-254b7eb8beed" />
 
  ![raspberry connection](https://github.com/user-attachments/assets/4cd708a3-38ac-4bd1-8029-57394e04d7f2)
