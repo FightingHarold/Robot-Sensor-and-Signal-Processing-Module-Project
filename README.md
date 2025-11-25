@@ -31,3 +31,10 @@ Final Working Prototype Screenshot:
  ![raspberry connection](https://github.com/user-attachments/assets/4cd708a3-38ac-4bd1-8029-57394e04d7f2)
 
 Connection GPIO Pins for the Raspberry Pi 3 Module B+.
+
+
+
+<img width="3000" height="2145" alt="circuit_image" src="https://github.com/user-attachments/assets/fced3ccb-53ad-4f39-b08d-9a0e8bf354a3" />
+
+Final Prototype Circuit Diagram for an Automated Square Patrol Car
+
